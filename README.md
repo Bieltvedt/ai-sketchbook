@@ -1,5 +1,5 @@
 # ai-sketchbook
-Various AI model implmentations from scratch.
+Various AI model implementations from scratch (mainly using numpy).
 
 Originally based on Computational Intelligence assignments, expanded and modified.
 
