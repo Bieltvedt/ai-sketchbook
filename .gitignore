@@ -60,6 +60,7 @@ pytestdebug.log
 .python-version
 
 # Environments
+venv
 .env
 .venv
 env/
